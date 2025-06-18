@@ -176,7 +176,7 @@
 <nav class="sidebar" id="sidebar">
   <ul class="nav flex-column">
     <li class="nav-item">
-      <a class="nav-link" href="{{ url('/') }}">
+      <a class="nav-link" href="{{ url('/dashboard') }}">
         <i class="mdi mdi-home menu-icon"></i><span class="menu-title">Dashboard</span>
       </a>
     </li>
